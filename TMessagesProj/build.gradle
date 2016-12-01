@@ -15,7 +15,7 @@ dependencies {
     compile 'com.android.support:support-core-ui:24.2.1'
     compile 'com.android.support:support-compat:24.2.1'
     compile 'com.android.support:support-core-utils:24.2.1'
-    compile 'net.hockeyapp.android:HockeySDK:4.0.1'
+    compile 'net.hockeyapp.android:HockeySDK:4.1.1'
     compile 'com.googlecode.mp4parser:isoparser:1.0.6'
 }
 
